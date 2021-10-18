@@ -76,6 +76,12 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+API_practice.ipynb
+random_numbers.ipynb
+
+# API KEYS
+api_keys.py
+
 
 # IPython
 profile_default/
