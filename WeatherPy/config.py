@@ -1,3 +1,0 @@
-weather_api_key = '8b74cc9d666a39e91d6be682ded9f04a'
-google_api_key = 'AIzaSyA5FcOnYH85U7BEd2jlCGqfmfV2X6dg9tg'
-census_api_key='a366b309c1bfd1695fd1afb636c83ca56cbf1e5c'
