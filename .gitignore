@@ -80,6 +80,7 @@ API_practice.ipynb
 random_numbers.ipynb
 
 # API KEYS
+config.py
 api_keys.py
 
 
